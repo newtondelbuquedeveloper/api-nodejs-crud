@@ -1,0 +1,24 @@
+{
+  "name": "fala-patrao-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtondelbuquedeveloper/api-nodejs-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtondelbuquedeveloper/api-nodejs-crud/issues"
+  },
+  "homepage": "https://github.com/newtondelbuquedeveloper/api-nodejs-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
